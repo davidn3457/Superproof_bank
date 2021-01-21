@@ -4,8 +4,8 @@ import os
 
 def budget():
     # path for data
-    csvpath = os.path.join("budget_data.csv")
-    csvpath_results = "budget_data.txt"
+    csvpath = os.path.join("Resources/budget_data.csv")
+    csvpath_results = "analysis/budget_data.txt"
 
     # Variables definition
     total_months = 0

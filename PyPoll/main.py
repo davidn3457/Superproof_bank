@@ -2,8 +2,8 @@ import csv
 import os
 
 # Paths
-csvpath = os.path.join("election_data.csv")
-csvpath_output = "election_data.txt"
+csvpath = os.path.join("Resources/election_data.csv")
+csvpath_output = "analysis/election_data.txt"
 
 # Variables
 votes = 0
